@@ -1,0 +1,14 @@
+# Данные и всё, что содержит ответы респондентов, в репозиторий не попадает
+data/
+map/out/
+*.sav
+*.rds
+*.bin
+*.csv
+*.xlsx
+*.parquet
+__pycache__/
+.Rhistory
+.RData
+.Rproj.user/
+.claude/
